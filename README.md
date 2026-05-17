@@ -60,9 +60,9 @@ That’s it! 🎉
 
 ## 📸 Screenshots
 
-![App Screenshot](assets/ScreenShot1.png)
-![App Screenshot](assets/ScreenShot2.png)
-![App Screenshot](assets/ScreenShot3.png)
+![App Screenshot](assets/screenshot1.png)
+![App Screenshot](assets/screenshot2.png)
+![App Screenshot](assets/screenshot3.png)
 
 # 🎯 Purpose of the Project
 
