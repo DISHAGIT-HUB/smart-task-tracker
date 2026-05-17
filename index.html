@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Task Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Smart Task Tracker</h1>
+
+    <div class="input-section">
+        <input type="text" id="taskInput" placeholder="Enter task...">
+        <input type="date" id="deadlineInput">
+        
+        <button onclick="addTask()">Add Task</button>
+    </div>
+
+    <div class="board">
+
+        <div class="column">
+            <h2>To Do</h2>
+            <div id="todo" class="task-container"></div>
+        </div>
+
+        <div class="column">
+            <h2>In Progress</h2>
+            <div id="inprogress" class="task-container"></div>
+        </div>
+
+        <div class="column">
+            <h2>Done</h2>
+            <div id="done" class="task-container"></div>
+        </div>
+
+    </div>
+
+<script src="script.js"></script>
+</body>
+</html>
