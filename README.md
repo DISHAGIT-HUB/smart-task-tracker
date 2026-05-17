@@ -58,6 +58,12 @@ That’s it! 🎉
 
 ---
 
+## 📸 Screenshots
+
+![App Screenshot](assets/ScreenShot1.png)
+![App Screenshot](assets/ScreenShot2.png)
+![App Screenshot](assets/ScreenShot3.png)
+
 # 🎯 Purpose of the Project
 
 This project was created to:
